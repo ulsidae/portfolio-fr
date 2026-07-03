@@ -24,3 +24,15 @@ Actuellement étudiant en informatique, j'envisage sérieusement de poursuivre m
 <h2 id="0-pourquoi-quebec">🍁 Pourquoi le Québec ?</h2>
 
 Avant de vous présenter mon parcours et mes projets, j'aimerais vous expliquer en quoi le Québec occupe une place si importante dans mon projet d'études.
+
+
+<h2 id="1-Certifications">📜 Certifications</h2>
+
+<h2 id="2-Projets">💻 Projets</h2>
+Je conçois principalement des projets qui allient utilité et innovation.
+
+**Je conçois des systèmes en les démontant, en les comprenant, puis en les optimisant dans des contraintes réelles.**
+
+Cette approche du développement est née de ma façon d'explorer les jeux vidéo, notamment à travers le modding.
+
+**Article associé :** [Comment j'ai développé cette façon de penser](https://github.com/ulsidae/dev_logs/blob/main/game%20modding/readme.fr.md)
