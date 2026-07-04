@@ -31,7 +31,7 @@ Le Québec représente pour moi bien plus qu’une simple destination d’étude
 - Un cadre marqué par des contraintes linguistiques et culturelles, qui demande une adaptation constante et une réflexion plus structurée dans la communication et le travail.
 - Un environnement nord-américain orienté vers le développement et la pratique, où les projets à long terme et l’application concrète des compétences occupent une place importante.
 
-** C’est un environnement qui me permet de poursuivre une progression continue dans ma manière d’aborder les systèmes. **
+**C’est un environnement qui me permet de poursuivre une progression continue dans ma manière d’aborder les systèmes.**
 
 
 <h2 id="1-Certifications">📜 Certifications</h2>
