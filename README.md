@@ -36,6 +36,57 @@ Le Québec représente pour moi bien plus qu’une simple destination d’étude
 
 <h2 id="1-Certifications">📜 Certifications</h2>
 
+| Section | 
+| :--- | 
+| [📜 Langues et préparation en cours](#langues) | 
+| [📜 Formations complémentaires pour concrétiser mes projets](#formations) | 
+
+---
+
+<h3 id="langues">📜 Langues et préparation en cours</h3>
+
+J'étudie actuellement le français et l'anglais de manière structurée. En plus du français standard, j'apprends également le français québécois afin de mieux comprendre la langue et la culture du Québec.
+
+### 📌 Français
+
+- J'ai terminé le programme **Foundation** de Québec French Skool.
+(Voir [le certificat]() et [les informations sur le programme]().)
+
+- Je poursuis actuellement mes études en grammaire française tout en rédigeant ce document.
+
+- Mon objectif est d'obtenir le **DELF B2** afin de poursuivre mes études au Québec, et je continue à travailler régulièrement pour atteindre ce niveau.
+
+### 📌 Anglais
+
+- Je me prépare actuellement au **TOEFL** afin de satisfaire aux exigences linguistiques nécessaires pour poursuivre des études au Québec.
+
+
+**Mon objectif est de remplir toutes les conditions d'admission requises pour les cégeps et les universités dans les délais prévus.**
+
+---
+
+<h3 id="formations">📜 Formations complémentaires pour concrétiser mes projets</h3>
+
+Je considère qu'avoir des idées est important, mais qu'il est tout aussi essentiel de posséder les compétences nécessaires pour les transformer en projets concrets.
+
+**Article associé :** [*Notes d'idées et projets réalisés à partir de celles-ci*]()
+
+Je pense également qu'il existe une différence entre simplement développer une application et concevoir un projet de manière réfléchie. Dans cette démarche, la sécurité constitue un élément essentiel.
+
+C'est pourquoi j'ai suivi en Corée du Sud un programme national destiné aux élèves doués en cybersécurité, ainsi qu'un camp de formation spécialisé en sécurité informatique.
+
+Ces expériences m'ont permis de développer une approche orientée vers la réalisation de **MVP (Minimum Viable Products)** tout en comprenant les différences entre un prototype et un développement destiné à un environnement professionnel. Elles m'ont également appris à intégrer les considérations de sécurité dès la conception d'un projet.
+
+### Références
+
+* [Gifted Program in Information Security, SWU (Middle Level, Cohort 9)]()
+* [2022 Cyber Guardians Security Camp]()
+* [Advanced Cybersecurity Track (High-Level B, Cohort 10), SWU Gifted Program in Information Security]()
+
+Aujourd'hui, je m'efforce d'appliquer ces principes dans mes projets personnels. J'accorde une attention particulière aux aspects liés à la sécurité et je documente mes idées ainsi que mes réalisations sur GitHub afin de développer des projets utiles et concrets.
+
+---
+
 <h2 id="2-Projets">💻 Projets</h2>
 Je conçois principalement des projets qui allient utilité et innovation.
 
@@ -43,4 +94,4 @@ Je conçois principalement des projets qui allient utilité et innovation.
 
 Cette approche du développement est née de ma façon d'explorer les jeux vidéo, notamment à travers le modding.
 
-**Article associé (explication détaillée du raisonnement derrière cette approche)**   [Comment j'ai développé cette façon de penser](https://github.com/ulsidae/dev_logs/blob/main/game%20modding/readme.fr.md)
+**Article associé (explication détaillée du raisonnement derrière cette approche) :**   [Comment j'ai développé cette façon de penser](https://github.com/ulsidae/dev_logs/blob/main/game%20modding/readme.fr.md)
