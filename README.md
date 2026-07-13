@@ -69,7 +69,7 @@ J'étudie actuellement le français et l'anglais de manière structurée. En plu
 
 Je considère qu'avoir des idées est important, mais qu'il est tout aussi essentiel de posséder les compétences nécessaires pour les transformer en projets concrets.
 
-**Article associé :** [*Notes d'idées et projets réalisés à partir de celles-ci*]()
+**Article associé :** [*Notes d'idées et projets réalisés à partir de celles-ci*](https://github.com/ulsidae/dev_logs/blob/main/idea-notes/readme.fr.md)
 
 Je pense également qu'il existe une différence entre simplement développer une application et concevoir un projet de manière réfléchie. Dans cette démarche, la sécurité constitue un élément essentiel.
 
