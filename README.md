@@ -49,8 +49,8 @@ J'étudie actuellement le français et l'anglais de manière structurée. En plu
 
 ### 📌 Français
 
-- J'ai terminé le programme **Foundation** de Québec French Skool.
-(Voir [le certificat]() et [les informations sur le programme]().)
+- J'ai terminé le programme **Foundation** de [Québec French Skool](https://www.skool.com/canadian-french-academy-4955/classroom).
+(Voir [le certificat](https://github.com/ulsidae/ulsidae/blob/main/img/4.png) et [les informations sur le programme](https://github.com/ulsidae/ulsidae/blob/main/img/5.jpg).)
 
 - Je poursuis actuellement mes études en grammaire française tout en rédigeant ce document.
 
@@ -79,9 +79,9 @@ Ces expériences m'ont permis de développer une approche orientée vers la réa
 
 ### Références
 
-* [Gifted Program in Information Security, SWU (Middle Level, Cohort 9)]()
-* [2022 Cyber Guardians Security Camp]()
-* [Advanced Cybersecurity Track (High-Level B, Cohort 10), SWU Gifted Program in Information Security]()
+* [Gifted Program in Information Security, SWU (Middle Level, Cohort 9)](https://github.com/ulsidae/ulsidae/blob/main/img/1.jpg)
+* [2022 Cyber Guardians Security Camp](https://github.com/ulsidae/ulsidae/blob/main/img/2.jpg)
+* [Advanced Cybersecurity Track (High-Level B, Cohort 10), SWU Gifted Program in Information Security](https://github.com/ulsidae/ulsidae/blob/main/img/3.jpg)
 
 Aujourd'hui, je m'efforce d'appliquer ces principes dans mes projets personnels. J'accorde une attention particulière aux aspects liés à la sécurité et je documente mes idées ainsi que mes réalisations sur GitHub afin de développer des projets utiles et concrets.
 
