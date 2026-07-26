@@ -213,5 +213,5 @@ Ce projet m'a permis d'explorer l'utilisation de l'IA générative dans un conte
 
 ---
 
-<h2 id="#3-Experiences">👥 Expériences</h2>
+<h2 id="3-Experiences">👥 Expériences</h2>
 
