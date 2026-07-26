@@ -109,7 +109,7 @@ Chaque projet représente une étape d'apprentissage : comprendre un problème, 
 
 <h3>🚀 Projets actuels</h3>
 
-### 🧠 AURIX — Système d'assistance personnelle basé sur un LLM local
+### 🧠 [AURIX](https://github.com/ulsidae/AURIX) — Système d'assistance personnelle basé sur un LLM local
 
 AURIX est un système d'assistance personnelle basé sur des modèles de langage locaux, intégrant une couche de mémoire basée sur une approche RAG.
 
@@ -124,7 +124,7 @@ Il évolue progressivement à travers différentes expérimentations et cycles d
 Ce projet constitue actuellement mon principal projet d'exploration autour de l'intégration de l'IA dans des systèmes logiciels concrets.
 
 
-### 🍯 RSVP-systems — Cadre de conception et d'organisation de systèmes
+### 🍯 [RSVP-systems](https://github.com/ulsidae/RSVP-systems/tree/main) — Cadre de conception et d'organisation de systèmes
 
 RSVP-systems est un projet d'exploration autour de la planification, de l'organisation et de l'orchestration de systèmes expérimentaux.
 
@@ -139,7 +139,7 @@ Ce projet vise également à améliorer ma manière de réfléchir lors de la co
 Par ailleurs, mon expérience au sein du conseil étudiant de mon université m'a permis de développer mes compétences en communication, coordination et collaboration dans un environnement collectif.
 
 
-### 📓 dev_logs — Journal d'exploration et de réflexion
+### 📓 [dev_logs](https://github.com/ulsidae/dev_logs) — Journal d'exploration et de réflexion
 
 dev_logs est un espace où je documente mes idées, mes expérimentations et mes réflexions autour de différents domaines liés à la technologie.
 
@@ -148,7 +148,7 @@ Ce projet sert de carnet d'exploration personnel afin de conserver les différen
 À travers cette documentation continue, je cherche à explorer de nouvelles idées, à mieux comprendre différents systèmes et à développer une approche plus structurée de l'apprentissage.
 
 
-### 🌱 Memory Garden — Application de journal mémoire assistée par IA
+### 🌱 [Memory Garden](https://github.com/ulsidae/memory-garden) — Application de journal mémoire assistée par IA
 
 Memory Garden est un projet développé en équipe explorant l'utilisation de l'intelligence artificielle dans la conservation et l'organisation des souvenirs personnels.
 
@@ -171,7 +171,7 @@ Ce projet me permet d'explorer la conception d'un système en équipe, tout en c
 <h3>✅ Projets réalisés</h3>
 
 
-### 🎙️ cori_tts — Système de synthèse vocale basé sur PiperTTS
+### 🎙️ [cori tts](https://github.com/ulsidae/cori_tts) — Système de synthèse vocale basé sur PiperTTS
 
 cori_tts est un projet visant à rendre une technologie de synthèse vocale plus accessible et plus simple à intégrer dans d'autres applications.
 
@@ -182,7 +182,7 @@ J'ai également étudié l'écosystème de PiperTTS en vérifiant les aspects li
 Cette expérience m'a permis de mieux comprendre l'évolution des projets open source et la manière dont les utilisateurs peuvent participer à leur amélioration.
 
 
-### 🌙 July Ruby IDE — Environnement d'apprentissage Ruby léger
+### 🌙 [July Ruby IDE](https://github.com/ulsidae/July-Ruby-IDE) — Environnement d'apprentissage Ruby léger
 
 July Ruby IDE est un environnement de développement minimal conçu pour apprendre et expérimenter avec le langage Ruby.
 
@@ -196,7 +196,7 @@ L'objectif principal n'était pas d'explorer Ruby on Rails ou l'écosystème des
 Ce projet m'a permis d'explorer la conception d'outils simples afin de mieux comprendre les systèmes sous-jacents d'un environnement de développement.
 
 
-### 🔍 RepoLens — Analyseur de portfolio GitHub avec IA
+### 🔍 [RepoLens](https://github.com/ulsidae/RepoLens) — Analyseur de portfolio GitHub avec IA
 
 RepoLens est un outil permettant d'analyser un portfolio GitHub à l'aide de l'intelligence artificielle.
 
@@ -210,3 +210,8 @@ Le système explore notamment :
 - la génération de rapports avec des modèles d'IA
 
 Ce projet m'a permis d'explorer l'utilisation de l'IA générative dans un contexte concret, en reliant développement logiciel, traitement d'information et conception de systèmes.
+
+---
+
+<h2 id="#3-Experiences">👥 Expériences</h2>
+
