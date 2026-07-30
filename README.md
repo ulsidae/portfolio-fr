@@ -231,7 +231,7 @@ En plus de projets collaboratifs sur GitHub tels que Memory Garden, j’ai cherc
 
 ---
 
-# Activités au sein du conseil étudiant — Expérience en organisation, collaboration et résolution de problèmes
+# 👥 Activités au sein du conseil étudiant — Expérience en organisation, collaboration et résolution de problèmes
 
 Grâce à mon implication au sein du conseil étudiant, j’ai pu évoluer dans un environnement opérationnel différent de celui des projets de développement.
 
