@@ -215,3 +215,120 @@ Ce projet m'a permis d'explorer l'utilisation de l'IA générative dans un conte
 
 <h2 id="3-Experiences">👥 Expériences</h2>
 
+Au début de mon parcours en développement, je considérais principalement l’implémentation des fonctionnalités et la qualité technique comme les critères les plus importants.
+
+Cependant, à travers différents projets, j’ai progressivement compris que le développement logiciel ne consiste pas uniquement à produire du code fonctionnel. Il est également nécessaire de prendre en compte l’environnement dans lequel un système sera utilisé ainsi que les besoins réels des utilisateurs.
+
+Lors de projets réalisés à partir de demandes clients, j’ai notamment constaté qu’il pouvait exister un écart entre les informations techniques nécessaires aux développeurs et celles dont les utilisateurs ont réellement besoin.
+
+Afin de réduire cet écart, j’ai séparé la documentation destinée aux développeurs, centrée sur l’architecture et la structure du système, de celle destinée aux utilisateurs non techniques, permettant de comprendre le fonctionnement général du service et son utilisation.
+
+[Référence : https://github.com/ulsidae/dev_logs/tree/main/Server/dynamic-archive-interface]
+
+J’ai également appris, à travers des projets en équipe, qu’il est plus important de créer un environnement permettant aux membres de comprendre l’objectif et la structure du projet afin de l’améliorer collectivement, plutôt que de se concentrer uniquement sur une implémentation satisfaisante au niveau individuel.
+
+En plus de projets collaboratifs sur GitHub tels que Memory Garden, j’ai cherché à développer mes expériences dans différents environnements afin de mieux comprendre la collaboration et les aspects opérationnels liés aux systèmes logiciels.
+
+---
+
+# Activités au sein du conseil étudiant — Expérience en organisation, collaboration et résolution de problèmes
+
+Grâce à mon implication au sein du conseil étudiant, j’ai pu évoluer dans un environnement opérationnel différent de celui des projets de développement.
+
+Lors de l’organisation d’événements et de la gestion des espaces communs, des problèmes imprévus apparaissaient régulièrement. Il était donc nécessaire d’établir des priorités et de trouver des solutions avec des ressources et un temps limités.
+
+Cette expérience m’a permis d’appliquer une approche de résolution de problèmes orientée système, également essentielle dans le développement logiciel.
+
+---
+
+## 1️⃣ Soutien à l’organisation d’événements (PE Flow Support)
+
+[Référence](https://github.com/ulsidae/RSVP-systems/tree/main/%F0%9F%8C%8DPE-flow-support)
+
+Lors de l’organisation d’événements sportifs, mon objectif n’était pas de rester limité à une seule responsabilité, mais de m’adapter aux changements de situation afin de maintenir la continuité et la fluidité des opérations.
+
+Principales responsabilités :
+
+* Soutien au déroulement des matchs
+* Maintien de la fluidité des activités
+* Assistance aux arbitres
+* Gestion des situations liées aux blessures
+* Gestion du matériel et des ressources
+
+Dans un environnement où plusieurs activités se déroulaient simultanément, il était nécessaire d’identifier rapidement les problèmes pouvant avoir le plus grand impact sur l’ensemble de l’organisation et d’ajuster les priorités.
+
+Cette expérience m’a permis de développer :
+
+* La capacité d’analyse en temps réel
+* L’adaptation rapide aux besoins
+* Le maintien de la stabilité opérationnelle
+
+---
+
+## 2️⃣ Organisation d’événements et préparation d’une performance
+
+[Référence](https://github.com/ulsidae/RSVP-systems/tree/main/%F0%9F%8C%8DUser-Centric%20Event%20Planning)
+
+Lors de la préparation d’une performance organisée par le conseil étudiant, l’objectif principal était d’améliorer le résultat collectif plutôt que de se concentrer uniquement sur la performance individuelle.
+
+J’ai amélioré mes propres points faibles grâce à des entraînements réguliers et à une auto-évaluation continue. Au niveau de l’équipe, nous avons coordonné plusieurs éléments :
+
+* Les déplacements sur scène
+* Le synchronisme
+* La mise en scène
+* La présence scénique
+
+Cette expérience m’a appris que, comme dans le développement logiciel, la collaboration entre les membres d’une équipe et le partage d’un objectif commun jouent un rôle essentiel dans la réussite d’un projet.
+
+---
+
+## 3️⃣ Amélioration de l’environnement opérationnel du conseil étudiant
+
+[Référence](https://github.com/ulsidae/RSVP-systems/tree/main/%F0%9F%8C%8DOperational-Improvements)
+
+La salle du conseil étudiant était un espace utilisé par plusieurs personnes, mais certains problèmes liés à l’organisation du matériel, à l’hygiène, à la gestion des ressources et aux erreurs d’imprimante réduisaient l’efficacité du travail.
+
+Plutôt que de considérer ces problèmes comme de simples tâches de nettoyage, je les ai abordés comme des problèmes d’amélioration opérationnelle.
+
+Actions réalisées :
+
+* Réorganisation de l’espace
+* Tri et gestion des objets inutilisés
+* Amélioration de l’environnement de travail
+* Résolution de problèmes liés à la configuration de l’imprimante
+
+Cette expérience m’a permis de comprendre que même de petits problèmes peuvent affecter l’efficacité globale d’un système lorsqu’ils sont négligés, et qu’un système doit être considéré au-delà de ses fonctionnalités afin d’intégrer son environnement d’utilisation.
+
+---
+
+# 👥 GTLcommunication — Expérience professionnelle et amélioration d’un système existant
+
+Chez GTLcommunication, je développe mon expérience dans un environnement professionnel différent de celui de mes projets personnels.
+
+Dans mes projets personnels, je me concentrais principalement sur la conception et l’implémentation de nouveaux systèmes. En environnement professionnel, j’ai appris qu’il est essentiel de comprendre la structure d’un système existant et de l’améliorer de manière stable tout en respectant les contraintes et les besoins actuels.
+
+Lors de l’analyse et de la maintenance de systèmes existants, j’ai compris qu’il ne suffisait pas d’ajouter de nouvelles fonctionnalités. Il est également nécessaire de prendre en compte la structure du code, les besoins des utilisateurs, les aspects de sécurité et la maintenabilité du système.
+
+J’ai analysé la structure d’un système web existant en utilisant l’OWASP Top 10 comme référence afin d’identifier les principaux risques de sécurité potentiels, puis appliqué une protection contre les attaques CSRF (Cross-Site Request Forgery).
+
+Cette expérience m’a permis de comprendre que, dans un environnement de production réel, il est nécessaire de prendre en compte non seulement le fonctionnement attendu du système, mais également la protection des données utilisateurs et sa stabilité.
+
+J’ai également appris l’importance de concevoir des solutions réalistes en maintenant la compatibilité entre le code existant et les améliorations apportées, tout en tenant compte des contraintes de délai et de maintenance.
+
+---
+
+## « Ce que j’ai appris »
+
+À travers ces expériences, j’ai développé une vision plus large du rôle d’un développeur : il ne s’agit pas seulement d’une personne qui implémente des fonctionnalités, mais également d’une personne qui :
+
+* Analyse les systèmes existants et structure les problèmes
+* Conçoit des solutions réalistes en tenant compte de différentes contraintes
+* Prend en considération la stabilité et la maintenance après l’implémentation
+
+Enfin, j’ai compris qu’un bon logiciel ne dépend pas uniquement de sa qualité technique. Il doit également prendre en compte la valeur apportée aux utilisateurs, la collaboration entre les membres d’une équipe et l’environnement opérationnel dans lequel il évolue.
+
+---
+
+<h2 id="4-Objectifs">🎯 Objectifs</h2>
+
+> 🚧 Section en cours de rédaction (Contenu à venir)
