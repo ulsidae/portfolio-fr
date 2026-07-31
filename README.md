@@ -9,8 +9,6 @@ Actuellement étudiant en informatique, j'envisage sérieusement de poursuivre m
 
 ---
 
-> Note : Ce portfolio est actuellement en cours de développement.
-
 | Section | Description |
 | :--- | :--- | 
 | [0. 🍁 Pourquoi le Québec ? ](#0-pourquoi-quebec) | Pourquoi j'ai choisi le Québec | 
@@ -331,4 +329,18 @@ Enfin, j’ai compris qu’un bon logiciel ne dépend pas uniquement de sa quali
 
 <h2 id="4-Objectifs">🎯 Objectifs</h2>
 
-> 🚧 Section en cours de rédaction (Contenu à venir)
+Je ne considère pas mes projets comme une fin, mais comme le début d'un apprentissage qui continuera tout au long de ma carrière.
+
+Étudier au Québec représente pour moi bien plus qu'une poursuite d'études. C'est l'occasion d'évoluer dans un environnement académique différent, de collaborer avec des personnes aux parcours variés et de confronter mes idées à des projets concrets.
+
+À travers les programmes coopératifs, je souhaite découvrir les réalités du développement logiciel en entreprise, travailler aux côtés de professionnels expérimentés, mieux comprendre les besoins des utilisateurs et apprendre à concevoir des systèmes qui restent utiles bien après leur mise en production.
+
+Au fil de mes projets et de mes expériences, j'ai compris qu'un bon logiciel ne repose pas uniquement sur une implémentation technique. Il résulte également d'une bonne communication, d'une compréhension des utilisateurs, d'une collaboration efficace et d'une amélioration continue.
+
+C'est cette manière de concevoir les systèmes que je souhaite continuer à développer au Québec.
+
+Mon objectif n'est pas seulement d'obtenir un diplôme. Je souhaite devenir une personne capable de comprendre un problème dans son ensemble, de réunir les bonnes personnes autour d'un objectif commun et de concevoir des systèmes qui créent une valeur durable.
+
+Si j'ai l'opportunité d'étudier au Québec, je souhaite mettre cette expérience au service de la communauté qui m'aura accueilli. À travers mes projets, ma collaboration et mon engagement, j'espère pouvoir contribuer, à mon échelle, à l'environnement dans lequel j'aurai eu la chance d'apprendre, tout en continuant à apprendre des personnes qui m'entoureront.
+
+Je suis encore au début de mon parcours. Mais chaque projet, chaque expérience et chaque collaboration me rapprochent un peu plus du développeur et du concepteur de systèmes que j'aspire à devenir.
