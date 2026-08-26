@@ -145,25 +145,6 @@ Ce projet sert de carnet d'exploration personnel afin de conserver les différen
 
 À travers cette documentation continue, je cherche à explorer de nouvelles idées, à mieux comprendre différents systèmes et à développer une approche plus structurée de l'apprentissage.
 
-
-### 🌱 [Memory Garden](https://github.com/ulsidae/memory-garden) — Application de journal mémoire assistée par IA
-
-Memory Garden est un projet développé en équipe explorant l'utilisation de l'intelligence artificielle dans la conservation et l'organisation des souvenirs personnels.
-
-Le projet vise à créer une expérience permettant aux utilisateurs d'enregistrer, structurer et revisiter leurs souvenirs à travers une interface simple.
-
-Initialement développé sous forme de prototype VR, le projet a ensuite évolué vers une architecture orientée application web afin d'améliorer son accessibilité.
-
-Dans ce projet, je participe également à l'organisation progressive du développement :
-- définition et suivi des tâches
-- gestion du calendrier et de l'avancement du projet
-- organisation du travail à travers GitHub Projects
-- coordination avec mon coéquipier
-- adaptation de l'architecture selon les contraintes rencontrées
-
-Ce projet me permet d'explorer la conception d'un système en équipe, tout en comprenant l'importance de la communication, de la planification et de la coordination dans un développement à long terme.
-
-
 ---
 
 <h3>✅ Projets réalisés</h3>
