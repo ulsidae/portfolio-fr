@@ -5,21 +5,28 @@ Je suis tombé, et pourtant je cours.
 ```
 
 Bonjour ! Je m'appelle Jet, et j'utilise le pseudonyme « ulsidae » sur GitHub.
-Actuellement étudiant en informatique, j'envisage sérieusement de poursuivre mes études et de bâtir mon avenir professionnel au Québec.
+Actuellement étudiant en informatique, je développe mon parcours autour du développement logiciel, de l'intelligence artificielle et de la conception de systèmes.
+
+
+## 📚 Parcours et évolution
+
+> Cette section documente une étape antérieure de mon parcours,
+> durant laquelle j'envisageais de poursuivre mes études au Québec.
+
 
 ---
 
 | Section | Description |
 | :--- | :--- | 
 | [0. 🍁 Pourquoi le Québec ? ](#0-pourquoi-quebec) | Pourquoi j'ai choisi le Québec | 
-| [1. 📜 Certifications](#1-Certifications) | Formations et parcours académiques liés à mes objectifs au Québec | 
+| [1. 📜 Certifications](#1-Certifications) | Formations et apprentissages liés à mon parcours | 
 | [2. 💻 Projets ](#2-Projets) | Mes projets personnels | 
 | [3. 👥 Expériences](#3-Experiences) | Expériences de travail, de collaboration et conception de systèmes | 
 | [4. 🎯 Objectifs](#4-Objectifs) | Objectifs et perspectives d'avenir | 
 
 ---
 
-<h2 id="0-pourquoi-quebec">🍁 Pourquoi le Québec ?</h2>
+<h2 id="0-pourquoi-quebec">🍁 Pourquoi le Québec ? — Archive </h2>
 
 Avant de vous présenter mon parcours et mes projets, j'aimerais vous expliquer en quoi le Québec occupe une place importante dans mon projet d'études.
 
@@ -32,7 +39,7 @@ Le Québec représente pour moi bien plus qu’une simple destination d’étude
 **C’est un environnement qui me permet de poursuivre une progression continue dans ma manière d’aborder les systèmes.**
 
 
-<h2 id="1-Certifications">📜 Certifications</h2>
+<h2 id="1-Certifications">📜 Certifications — Archive</h2>
 
 | Section | 
 | :--- | 
@@ -52,14 +59,9 @@ J'étudie actuellement le français et l'anglais de manière structurée. En plu
 
 - Je poursuis actuellement mes études en grammaire française tout en rédigeant ce document.
 
-- Mon objectif est d'obtenir le **DELF B2** afin de poursuivre mes études au Québec, et je continue à travailler régulièrement pour atteindre ce niveau.
+- Mon objectif est d'obtenir le DELF B2 afin de maintenir ouvertes de futures possibilités d'études ou de travail au Québec, et je continue à travailler régulièrement pour atteindre ce niveau.
 
-### 📌 Anglais
-
-- Je me prépare actuellement au **TOEFL** afin de satisfaire aux exigences linguistiques nécessaires pour poursuivre des études au Québec.
-
-
-**Mon objectif est de remplir toutes les conditions d'admission requises pour les cégeps et les universités dans les délais prévus.**
+À plus long terme, je souhaite continuer à développer mes compétences linguistiques afin de pouvoir saisir de futures opportunités d'études ou de travail au Québec.
 
 ---
 
@@ -312,16 +314,14 @@ Enfin, j’ai compris qu’un bon logiciel ne dépend pas uniquement de sa quali
 
 Je ne considère pas mes projets comme une fin, mais comme le début d'un apprentissage qui continuera tout au long de ma carrière.
 
-Étudier au Québec représente pour moi bien plus qu'une poursuite d'études. C'est l'occasion d'évoluer dans un environnement académique différent, de collaborer avec des personnes aux parcours variés et de confronter mes idées à des projets concrets.
+Actuellement étudiant en informatique, je souhaite construire progressivement un parcours à l'intersection du développement logiciel, de l'intelligence artificielle et de l'éducation. À travers mes études, mes projets et mes expériences, mon objectif est de développer à la fois mes compétences techniques et ma capacité à comprendre les besoins réels des utilisateurs.
 
-À travers les programmes coopératifs, je souhaite découvrir les réalités du développement logiciel en entreprise, travailler aux côtés de professionnels expérimentés, mieux comprendre les besoins des utilisateurs et apprendre à concevoir des systèmes qui restent utiles bien après leur mise en production.
+Au fil de mes projets, notamment dans le domaine de l'intelligence artificielle et des systèmes locaux, j'ai compris qu'un bon logiciel ne repose pas uniquement sur une implémentation technique. Il résulte également d'une bonne compréhension des utilisateurs, d'une communication claire, d'une collaboration efficace et d'une amélioration continue.
 
-Au fil de mes projets et de mes expériences, j'ai compris qu'un bon logiciel ne repose pas uniquement sur une implémentation technique. Il résulte également d'une bonne communication, d'une compréhension des utilisateurs, d'une collaboration efficace et d'une amélioration continue.
+Je souhaite également développer mes compétences pédagogiques afin de pouvoir transmettre les connaissances que j'aurai acquises. Pour moi, l'éducation et la technologie ne sont pas deux domaines opposés : elles peuvent se compléter pour rendre les connaissances et les outils numériques plus accessibles et plus utiles.
 
-C'est cette manière de concevoir les systèmes que je souhaite continuer à développer au Québec.
+À plus long terme, je souhaite garder ouverte la possibilité de poursuivre mon parcours au Québec. Je considère cette perspective non pas comme une étape immédiate, mais comme un objectif à long terme que je pourrai poursuivre après avoir construit une base solide en Corée, tant sur le plan académique que professionnel.
 
 Mon objectif n'est pas seulement d'obtenir un diplôme. Je souhaite devenir une personne capable de comprendre un problème dans son ensemble, de réunir les bonnes personnes autour d'un objectif commun et de concevoir des systèmes qui créent une valeur durable.
 
-Si j'ai l'opportunité d'étudier au Québec, je souhaite mettre cette expérience au service de la communauté qui m'aura accueilli. À travers mes projets, ma collaboration et mon engagement, j'espère pouvoir contribuer, à mon échelle, à l'environnement dans lequel j'aurai eu la chance d'apprendre, tout en continuant à apprendre des personnes qui m'entoureront.
-
-Je suis encore au début de mon parcours. Mais chaque projet, chaque expérience et chaque collaboration me rapprochent un peu plus du développeur et du concepteur de systèmes que j'aspire à devenir.
+Je suis encore au début de mon parcours. Mais chaque projet, chaque expérience et chaque collaboration me rapprochent un peu plus du professionnel que j'aspire à devenir : une personne capable de comprendre la technologie, de la construire et de la transmettre aux autres.
